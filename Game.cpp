@@ -1,4 +1,4 @@
-#include<iostream>6
+#include<iostream>
 #include<graphics.h>
 #include<conio.h>
 #include<windows.h>
